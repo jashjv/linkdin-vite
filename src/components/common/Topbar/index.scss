@@ -1,0 +1,16 @@
+.topbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 0.87);
+    border: 1px solid black;
+
+    img {
+        width: 53px;
+        align-items: center;
+        justify-content: center;
+        height: 51px;
+        margin-left: 16px;
+    }
+}
